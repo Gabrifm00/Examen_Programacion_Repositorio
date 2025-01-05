@@ -17,3 +17,4 @@ Voy a subir también el examen que yo realicé en su momento con una nota de 6.8
 Clona este repositorio usando:<br>
 Bash<br>
 git clone https://github.com/Gabrifm00/Examen_Programacion_Repositorio.git
+Para ejecutar los archivos ".java" ábrelos en tu editor de código favorito (VSCode, Eclipse, IntelliJ Idea,...)
