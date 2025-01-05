@@ -9,7 +9,7 @@ Voy a subir también el examen que yo realicé en su momento con una nota de 6.8
 
 ## Contenido
 -Código fuente de los ejercicios de examen<br>
--Código fuente de los ejercicios de MI examen
+-Código fuente de los ejercicios de MI examen<br>
 -Un archivo '.gitignore' para gestionar los archivos ignorados.
 
 ## Instrucciones para clonar y ejecutar
