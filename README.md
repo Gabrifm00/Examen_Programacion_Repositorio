@@ -14,5 +14,5 @@ Voy a subir también el examen que yo realicé en su momento con una nota de 6.8
 
 ## Instrucciones para clonar y ejecutar
 Clona este repositorio usando:<br>
-'''Bash<br>
+Bash<br>
 git clone https://github.com/Gabrifm00/Examen_Programacion_Repositorio.git
