@@ -8,7 +8,7 @@ En este repositorio voy a subir el enunciado y el examen de programación del pr
 Voy a subir también el examen que yo realicé en su momento con una nota de 6.8 puntos. Con esto quiero dejar una práctica de corrección para el que quiera de que cambiaría para conseguir llegar al 10 y luego ver el examen corregido para ver cómo de parecido es.
 
 ## Contenido
--Código fuente de los ejercicios de examen
+-Código fuente de los ejercicios de examen\n
 -Código fuente de los ejercicios de MI examen
 -Un archivo '.gitignore' para gestionar los archivos ignorados.
 
